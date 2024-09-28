@@ -1,0 +1,7 @@
+{
+  "name": "SomosApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
